@@ -67,7 +67,7 @@ My strongest areas are:
 
 <div align="center">
 
-![Languages](https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql)
+![Languages](https://skillicons.dev/icons?i=python,java,javascript,typescript)
 
 </div>
 
@@ -75,7 +75,7 @@ My strongest areas are:
 
 <div align="center">
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,html,css)
 
 </div>
 
@@ -83,7 +83,7 @@ My strongest areas are:
 
 <div align="center">
 
-![Backend](https://skillicons.dev/icons?i=nodejs,firebase,fastapi,mongodb,postgres)
+![Backend](https://skillicons.dev/icons?i=nodejs,firebase,fastapi,restapi)
 
 </div>
 
