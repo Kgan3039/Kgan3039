@@ -55,11 +55,8 @@ My strongest areas are:
 
 ### Open To
 
-- Software Engineering Internships  
-- AI/ML Engineering Roles  
-- Full Stack Engineering Opportunities  
-- Backend Engineering Opportunities  
-- Product Engineering Teams  
+- Software Engineering Roles/Internships  
+- AI/ML Engineering Roles/Internships 
 - Open Source Collaboration  
 
 ---
@@ -94,7 +91,7 @@ My strongest areas are:
 
 <div align="center">
 
-![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,aws,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode)
 
 </div>
 
