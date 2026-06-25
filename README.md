@@ -1,21 +1,21 @@
-# <div align="center">Kartik Gangwar</div>
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Product-Minded+Builder;Building+Scalable+Systems+%26+Intelligent+Products)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Kartik%20Gangwar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0f172a,25:312e81,50:6d28d9,75:7c3aed,100:1e1b4b" width="100%" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Product-Minded+Builder;Building+Scalable+Systems+%26+Intelligent+Products)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
 
-![University](https://img.shields.io/badge/University-UW--Madison-4C1D95?style=for-the-badge)
-![Degree](https://img.shields.io/badge/Degree-CS%20%2B%20Data%20Science-6D28D9?style=for-the-badge)
-![GPA](https://img.shields.io/badge/GPA-3.7%2F4.0-7C3AED?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Madison%2C%20WI-312E81?style=for-the-badge)
+<img src="https://img.shields.io/badge/University-UW--Madison-4C1D95?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Degree-CS%20%2B%20Data%20Science-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GPA-3.7%2F4.0-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Madison%2C%20WI-312E81?style=for-the-badge" />
 
 </div>
+
+<br />
 
 <div align="center">
 
@@ -26,11 +26,13 @@
 
 </div>
 
+<br />
+
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Kgan3039&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/Kgan3039?style=for-the-badge&color=6D28D9)
-![](https://img.shields.io/github/stars/Kgan3039?style=for-the-badge&color=4C1D95)
+<img src="https://komarev.com/ghpvc/?username=Kgan3039&style=for-the-badge&color=7C3AED" />
+<img src="https://img.shields.io/github/followers/Kgan3039?style=for-the-badge&color=6D28D9" />
+<img src="https://img.shields.io/github/stars/Kgan3039?style=for-the-badge&color=4C1D95" />
 
 </div>
 
@@ -38,29 +40,25 @@
 
 # About
 
-I’m a **Software Engineer and AI/ML Engineer** focused on building scalable products at the intersection of software systems, machine learning, and product engineering.
+I’m a **Software Engineer and AI/ML Engineer** studying **Computer Science + Data Science at the University of Wisconsin–Madison**.
 
-Currently pursuing a dual degree in **Computer Science + Data Science at the [University of Wisconsin–Madison](chatgpt://generic-entity?number=0)**, I specialize in architecting production-grade applications spanning **full-stack engineering, backend systems, AI pipelines, and intelligent product design**.  [oai_citation:0‡Kartik_Gangwar_Resume.pdf](sediment://file_000000007250720888da10d6bdb46357)
+I build products across **full-stack engineering, backend systems, AI/ML pipelines, mobile applications, and product-focused software systems**. My work combines strong software fundamentals with practical product execution: shipping real applications, designing scalable APIs, integrating machine learning models, and building user-facing systems.
 
-My engineering philosophy combines:
-- Strong software fundamentals  
-- AI/ML systems thinking  
-- Product-driven execution  
-- Scalable architecture design  
+My strongest areas are:
 
-I enjoy solving high-impact engineering problems involving:
-- Distributed systems  
-- Backend APIs  
-- ML infrastructure  
-- AI-powered products  
-- Developer tooling  
-- Product optimization  
+- Full-stack product engineering  
+- Backend APIs and cloud infrastructure  
+- AI/ML systems and NLP pipelines  
+- Mobile development with React Native  
+- Firebase, Firestore, and real-time app architecture  
+- Product-minded engineering execution  
 
 ### Open To
+
 - Software Engineering Internships  
 - AI/ML Engineering Roles  
 - Full Stack Engineering Opportunities  
-- Backend Infrastructure Engineering  
+- Backend Engineering Opportunities  
 - Product Engineering Teams  
 - Open Source Collaboration  
 
@@ -72,11 +70,7 @@ I enjoy solving high-impact engineering problems involving:
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![SQL](https://skillicons.dev/icons?i=mysql)
+![Languages](https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql)
 
 </div>
 
@@ -84,10 +78,7 @@ I enjoy solving high-impact engineering problems involving:
 
 <div align="center">
 
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![Vite](https://skillicons.dev/icons?i=vite)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css)
 
 </div>
 
@@ -95,11 +86,7 @@ I enjoy solving high-impact engineering problems involving:
 
 <div align="center">
 
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Postgres](https://skillicons.dev/icons?i=postgres)
+![Backend](https://skillicons.dev/icons?i=nodejs,firebase,fastapi,mongodb,postgres)
 
 </div>
 
@@ -107,9 +94,7 @@ I enjoy solving high-impact engineering problems involving:
 
 <div align="center">
 
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Linux](https://skillicons.dev/icons?i=linux)
+![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,aws,vscode)
 
 </div>
 
@@ -133,6 +118,8 @@ I enjoy solving high-impact engineering problems involving:
 <details>
 <summary><b>AI Market Sentiment Dashboard</b></summary>
 
+<br />
+
 AI-powered market intelligence platform using FinBERT for sentiment analysis and predictive analytics.
 
 | Metric | Details |
@@ -142,63 +129,75 @@ AI-powered market intelligence platform using FinBERT for sentiment analysis and
 | Performance | Real-time dashboard analytics |
 | Security | API-driven architecture |
 | Impact | Production-ready AI analytics |
-| Repository | github.com/Kgan3039/ai-market-sentiment-dashboard |
+| Repository | [github.com/Kgan3039/ai-market-sentiment-dashboard](https://github.com/Kgan3039/ai-market-sentiment-dashboard) |
 
-Built a full-stack market sentiment system that processes financial headlines and social sentiment using NLP pipelines. Designed backend APIs and frontend visualization workflows for market analytics and prediction delivery.  [oai_citation:1‡Kartik_Gangwar_Resume.pdf](sediment://file_000000007250720888da10d6bdb46357)
+Built a full-stack market sentiment system that processes financial headlines and social sentiment using NLP pipelines. Designed backend APIs and frontend visualization workflows for market analytics, prediction outputs, financial data ingestion, and dashboard delivery.
 
 </details>
+
+<br />
 
 <details>
 <summary><b>FiPet</b></summary>
 
-Gamified financial literacy platform with real-time engagement systems.
+<br />
+
+Gamified financial literacy platform with real-time engagement, onboarding, quests, and financial education features.
 
 | Metric | Details |
 |--------|---------|
-| Stack | React Native, TypeScript, Firebase |
+| Stack | React Native, TypeScript, Firebase, Firestore, Cloud Functions |
 | Scale | 300+ downloads |
 | Performance | Real-time cloud sync |
 | Security | Firebase Auth + Firestore |
-| Impact | Financial education product |
-| Repository | Private |
+| Impact | Financial literacy education platform |
+| Repository | Private Repository |
 
-Designed backend APIs, gamification systems, and real-time application infrastructure powering a scalable mobile platform focused on financial literacy education.  [oai_citation:2‡Kartik_Gangwar_Resume.pdf](sediment://file_000000007250720888da10d6bdb46357)
+Developing FiPet as a mobile-first financial literacy product with gamified learning systems, cloud-backed user progress, authentication flows, and real-time application features. Work includes backend APIs, Firebase infrastructure, product stability, and engineering workflow leadership.
 
 </details>
+
+<br />
 
 <details>
 <summary><b>TrueNeed</b></summary>
 
-Real-time mutual aid platform enabling efficient resource matching.
+<br />
+
+Real-time mutual aid platform enabling efficient resource matching between offers and requests.
 
 | Metric | Details |
 |--------|---------|
-| Stack | React Native, Firebase |
-| Scale | Hackathon production deployment |
-| Performance | Real-time feed updates |
+| Stack | React Native, Firebase, Firestore |
+| Scale | 80+ hackathon participants |
+| Performance | Real-time feed synchronization |
 | Security | Auth-protected architecture |
-| Impact | 80+ participant usage |
-| Repository | github.com/Kgan3039/TrueNeed |
+| Impact | Resource matching and mutual aid coordination |
+| Repository | [github.com/Kgan3039/TrueNeed](https://github.com/Kgan3039/TrueNeed) |
 
-Built a scalable mutual aid platform with live posting, dynamic resource matching, and Firestore synchronization.  [oai_citation:3‡Kartik_Gangwar_Resume.pdf](sediment://file_000000007250720888da10d6bdb46357)
+Built a real-time platform for live offer/request posting, dynamic matching logic, authenticated user flows, and Firestore-backed feed synchronization.
 
 </details>
 
-<details>
-<summary><b>CNN Image Recognition</b></summary>
+<br />
 
-Deep learning project focused on medical image classification.
+<details>
+<summary><b>Studi</b></summary>
+
+<br />
+
+Study-matching and productivity application built for university students.
 
 | Metric | Details |
 |--------|---------|
-| Stack | TensorFlow, NumPy |
-| Scale | Large medical datasets |
-| Performance | Optimized CNN inference |
-| Security | Research environment |
-| Impact | Improved classification reliability |
-| Repository | Private |
+| Stack | React Native, TypeScript, Firebase |
+| Scale | Campus-focused product |
+| Performance | Real-time data workflows |
+| Security | Firebase Auth + Firestore rules |
+| Impact | Helps students find study partners, sessions, and academic support |
+| Repository | [github.com/Kgan3039/Studi](https://github.com/Kgan3039/Studi) |
 
-Built and optimized CNN architectures for medical imaging workflows involving trauma pattern recognition.  [oai_citation:4‡Kartik_Gangwar_Resume.pdf](sediment://file_000000007250720888da10d6bdb46357)
+Building Studi as a student-focused platform for discovering study sessions, matching with classmates, coordinating academic support, and improving collaboration across campus communities.
 
 </details>
 
@@ -206,40 +205,57 @@ Built and optimized CNN architectures for medical imaging workflows involving tr
 
 # Experience
 
-## Lead Software Engineer (CTO) — [FiPet](chatgpt://generic-entity?number=1)  
+## Lead Software Engineer (CTO) — FiPet  
 **Oct 2025 – Present**
 
 Leading engineering strategy and technical execution for a gamified financial literacy platform.
 
-- Engineering leadership across a 20-person team  
-- Backend infrastructure and product systems  
-- Firebase architecture and cloud services  
-- Product engineering execution  
+- Developing a mobile financial literacy platform using React Native, TypeScript, Firebase, Firestore, and Cloud Functions  
+- Implementing backend services, authentication systems, real-time gamification features, and application infrastructure  
+- Establishing engineering workflows across a 20-person development team  
+- Reviewing product architecture, stability issues, and release readiness  
 
-**Skills:** `React Native` `TypeScript` `Firebase` `Cloud Functions`
+**Skills:** `React Native` `TypeScript` `Firebase` `Firestore` `Cloud Functions` `Product Engineering`
 
 ---
 
-## Software Engineering Project Manager — [AI@UW](chatgpt://generic-entity?number=2)  
+## Software Engineering Project Manager — AI@UW  
 **Mar 2026 – Present**
 
-Leading engineering and product execution for AI-driven financial analytics systems.
+Leading engineering and product execution for an AI-powered market sentiment dashboard.
 
-- Full-stack architecture  
-- API contract design  
-- ML integration  
-- Backend validation  
+- Built a full-stack market sentiment platform using Python, FastAPI, React/Vite, and FinBERT  
+- Developed backend/frontend API contracts supporting dashboard sections, market data ingestion, ML outputs, and visualization workflows  
+- Debugged REST API failures, frontend state mismatches, and ML service integration issues  
+- Validated system reliability with a 14/14 backend smoke test suite for live demo readiness  
 
-**Skills:** `Python` `FastAPI` `React` `FinBERT`
+**Skills:** `Python` `FastAPI` `React` `Vite` `FinBERT` `Machine Learning`
 
 ---
 
-## Technology Strategy Intern — [iStart Valley](chatgpt://generic-entity?number=3)  
+## Technology Strategy Intern — iStart Valley  
 **Jun 2023 – Sept 2023**
 
-Worked on technical strategy and prototyping for emerging AI products.
+Worked on technical strategy and product prototyping for emerging technology products.
 
-**Skills:** `AI/ML` `Product Strategy` `Prototyping`
+- Developed technical prototypes and implementation plans for a VR-based mental health platform  
+- Designed headset interaction workflows and immersive therapeutic environment concepts  
+- Applied AI/ML research, feasibility analysis, and product prototyping to evaluate system requirements  
+
+**Skills:** `AI/ML Research` `Product Strategy` `Technical Prototyping`
+
+---
+
+## Software Engineering Instructor — STEMShala Enrichment Center  
+**Jun 2023 – Aug 2025**
+
+Taught programming and robotics concepts to middle and high school students.
+
+- Taught Python and JavaScript to 40+ students through project-based technical instruction  
+- Coached FLL robotics teams on sensor integration, autonomous design, and engineering problem-solving  
+- Designed hands-on programming exercises and robotics challenges  
+
+**Skills:** `Python` `JavaScript` `Robotics` `Technical Instruction`
 
 ---
 
@@ -249,9 +265,9 @@ Worked on technical strategy and prototyping for emerging AI products.
 
 | Recognition | Details |
 |-------------|---------|
-| Global Semi-Finalist | iStart Valley Business Pitch Competition (2024) |
-| 4th Place | Illinois Speech & Debate State Finals (2025) |
-| 3rd Place | UW Madison Product Management Case Competition (2026) |
+| Global Semi-Finalist | iStart Valley Business Pitch Competition, 2024 |
+| 4th Place | Illinois Speech & Debate State Finals, 2025 |
+| 3rd Place | UW Madison Product Management Case Competition, 2026 |
 
 </div>
 
@@ -269,21 +285,11 @@ Worked on technical strategy and prototyping for emerging AI products.
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Kgan3039&theme=tokyonight&no-frame=true&row=2&column=4)
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Kgan3039&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Kgan3039&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -293,36 +299,9 @@ Worked on technical strategy and prototyping for emerging AI products.
 
 <div align="center">
 
-![Snake animation](https://github.com/Kgan3039/Kgan3039/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Kgan3039/Kgan3039/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Distributed Systems
-  - Advanced Machine Learning
-  - System Design
-  - Cloud Infrastructure
-
-Building:
-  - AI Products
-  - Scalable Full Stack Applications
-  - Developer Tools
-
-Exploring:
-  - AI Agents
-  - MLOps
-  - Product Engineering
-
-Open To:
-  - SWE Internships
-  - AI/ML Roles
-  - Full Stack Engineering
-```
 
 ---
 
@@ -330,21 +309,19 @@ Open To:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-kgangwar@wisc.edu-7C3AED?style=for-the-badge&logo=gmail)](mailto:kgangwar@wisc.edu)
+[![Email](https://img.shields.io/badge/Gmail-kgangwar@wisc.edu-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kgangwar@wisc.edu)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik%20Gangwar-6D28D9?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kartik-gangwar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik%20Gangwar-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-gangwar)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kgan3039-4C1D95?style=for-the-badge&logo=github)](https://github.com/Kgan3039)
+[![GitHub](https://img.shields.io/badge/GitHub-Kgan3039-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kgan3039)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kartikgangwar.dev-312E81?style=for-the-badge&logo=vercel)](https://kartikgangwar.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kartikgangwar.dev-312E81?style=for-the-badge&logo=vercel&logoColor=white)](https://kartikgangwar.dev)
 
 </div>
 
 ---
 
 <div align="center">
-
-### “Building intelligent systems, scalable products, and engineering meaningful impact.”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,25:312e81,50:6d28d9,75:7c3aed,100:1e1b4b"/>
 
