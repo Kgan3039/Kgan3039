@@ -110,8 +110,6 @@ I enjoy solving high-impact engineering problems involving:
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
 
 </div>
 
@@ -254,35 +252,6 @@ Worked on technical strategy and prototyping for emerging AI products.
 | Global Semi-Finalist | iStart Valley Business Pitch Competition (2024) |
 | 4th Place | Illinois Speech & Debate State Finals (2025) |
 | 3rd Place | UW Madison Product Management Case Competition (2026) |
-
-</div>
-
----
-
-# Certifications
-
-## AWS
-![AWS](https://img.shields.io/badge/AWS-In%20Progress-7C3AED?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-![Oracle](https://img.shields.io/badge/Oracle-In%20Progress-6D28D9?style=for-the-badge&logo=oracle)
-
-## NPTEL
-![NPTEL](https://img.shields.io/badge/NPTEL-In%20Progress-4C1D95?style=for-the-badge)
-
-## Cisco
-![Cisco](https://img.shields.io/badge/Cisco-In%20Progress-312E81?style=for-the-badge&logo=cisco)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-7C3AED?style=for-the-badge&logo=leetcode)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-4C1D95?style=for-the-badge&logo=hackerrank)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-312E81?style=for-the-badge)](#)
 
 </div>
 
