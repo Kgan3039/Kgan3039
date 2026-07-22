@@ -10,7 +10,6 @@
 
 <img src="https://img.shields.io/badge/University-UW--Madison-4C1D95?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Degree-CS%20%2B%20Data%20Science-6D28D9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GPA-3.7%2F4.0-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-Madison%2C%20WI-312E81?style=for-the-badge" />
 
 </div>
