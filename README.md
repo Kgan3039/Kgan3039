@@ -174,7 +174,7 @@ Gamified financial literacy platform with real-time engagement, onboarding, ques
 | Metric | Details |
 |--------|---------|
 | Stack | React Native, TypeScript, Firebase, Firestore, Cloud Functions |
-| Scale | 300+ downloads |
+| Scale | 2000+ downloads |
 | Performance | Real-time cloud sync |
 | Security | Firebase Auth + Firestore |
 | Impact | Financial literacy education platform |
@@ -239,7 +239,7 @@ Leading engineering strategy and technical execution for a gamified financial li
 
 - Developing a mobile financial literacy platform using React Native, TypeScript, Firebase, Firestore, and Cloud Functions  
 - Implementing backend services, authentication systems, real-time gamification features, and application infrastructure  
-- Establishing engineering workflows across a 20-person development team  
+- Establishing engineering workflows across a 25-person development team  
 - Reviewing product architecture, stability issues, and release readiness  
 
 **Skills:** `React Native` `TypeScript` `Firebase` `Firestore` `Cloud Functions` `Product Engineering`
