@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Kartik%20Gangwar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0f172a,25:312e81,50:6d28d9,75:7c3aed,100:1e1b4b" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Product-Minded+Builder;Building+Scalable+Systems+%26+Intelligent+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineer;CS+%2B+Data+Science+%40+UW-Madison;Backend+%2B+Full-Stack+Engineer;Mobile+%2B+AI%2FML+Systems;Building+Reliable+Software)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,24 +39,24 @@
 
 # About
 
-I’m a **Software Engineer and AI/ML Engineer** studying **Computer Science + Data Science at the University of Wisconsin–Madison**.
+I'm a **Software Engineer** studying **Computer Science + Data Science at the University of Wisconsin–Madison**.
 
-I build products across **full-stack engineering, backend systems, AI/ML pipelines, mobile applications, and product-focused software systems**. My work combines strong software fundamentals with practical product execution: shipping real applications, designing scalable APIs, integrating machine learning models, and building user-facing systems.
+I build reliable software across **backend systems, mobile applications, full-stack products, and AI/ML infrastructure**. My recent work includes shipping **Studi v1.0 to the Apple App Store**, engineering native iOS systems for **FiPet, a production app with 2,000+ downloads**, and leading a **5-person AI@UW engineering team** building a financial-news intelligence platform.
 
 My strongest areas are:
 
-- Full-stack product engineering  
-- Backend APIs and cloud infrastructure  
-- AI/ML systems and NLP pipelines  
-- Mobile development with React Native  
-- Firebase, Firestore, and real-time app architecture  
-- Product-minded engineering execution  
+- Backend & full-stack engineering
+- Mobile engineering with Swift/SwiftUI & React Native
+- Data & AI/ML pipelines
+- APIs, databases & real-time systems
+- Testing, security & reliability
+- Engineering integration & technical leadership
 
 ### Open To
 
-- Software Engineering Roles/Internships  
-- AI/ML Engineering Roles/Internships 
-- Open Source Collaboration  
+- Software Engineering Internships
+- AI/ML Engineering Internships
+- Open Source Collaboration
 
 ---
 
@@ -66,13 +66,13 @@ My strongest areas are:
 
 <div align="center">
 
-![Languages](https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql)
+![Languages](https://skillicons.dev/icons?i=python,java,cpp,swift,javascript,typescript,mysql)
 
 </div>
 
 ---
 
-## Frameworks & Technologies
+## Frameworks & Platforms
 
 <div align="center">
 
@@ -83,34 +83,40 @@ My strongest areas are:
 <div align="center">
 
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-6D28D9?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## Backend & Tools
+## Developer Tools
 
 <div align="center">
 
-![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,aws,azure)
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20Code-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Codex-4C1D95?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
 ---
 
-## ML / AI
+## AI / ML & Data
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/sentence--transformers-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HDBSCAN-4C1D95?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 </div>
@@ -119,46 +125,65 @@ My strongest areas are:
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/FinBERT-6D28D9?style=for-the-badge"/>
 
 </div>
 
 ---
 
----
+# Engineering Focus
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| NLP | Advanced | FinBERT, sentiment analysis, financial text classification |
-| Deep Learning | Advanced | CNNs, TensorFlow, PyTorch |
-| Data Science | Advanced | Pandas, NumPy, Scikit-Learn |
-| Model Deployment | Intermediate | ML APIs, inference pipelines |
-| Computer Vision | Intermediate | Medical imaging classification |
-| MLOps | Intermediate | Model evaluation, production integration |
+| Area | Experience |
+|------|------------|
+| Backend Systems | REST APIs, persistence, caching, validation, provider fallbacks, failure handling |
+| Mobile Engineering | Swift, SwiftUI, React Native, Firebase, real-time application workflows |
+| Data & AI/ML | NLP pipelines, embeddings, semantic deduplication, clustering, data processing |
+| Databases | SQLite, Firestore, indexed queries, deterministic identities, transactional workflows |
+| Reliability | Automated testing, security rules, CI, environment safeguards, degraded-state handling |
+| Technical Leadership | System integration, API contracts, code review, architecture, engineering coordination |
 
 ---
 
 # Featured Projects
 
 <details>
+<summary><b>Studi</b></summary>
+
+<br />
+
+Study coordination platform built for UW–Madison students and shipped to the Apple App Store.
+
+| Metric | Details |
+|--------|---------|
+| Stack | React Native, TypeScript, Firebase Auth, Firestore, Cloud Functions |
+| Release | v1.0 shipped to the Apple App Store |
+| Testing | 690+ automated tests |
+| Security | 270+ Firestore emulator security tests |
+| CI | 4 required GitHub Actions quality gates |
+| Repository | [github.com/Kgan3039/studi](https://github.com/Kgan3039/studi) |
+
+Engineered real-time messaging, friend discovery, and study-session workflows with deterministic IDs, transactional authorization, server-enforced rate limiting, and indexed Firestore queries. Built production workflows spanning authentication, push notifications, session coordination, messaging, moderation, and account management.
+
+</details>
+
+<br />
+
+<details>
 <summary><b>AI Market Sentiment Dashboard</b></summary>
 
 <br />
 
-AI-powered market intelligence platform using FinBERT for sentiment analysis and predictive analytics.
+Financial-news intelligence platform spanning durable ingestion, evidence processing, semantic reconciliation, and theme discovery.
 
 | Metric | Details |
 |--------|---------|
-| Stack | Python, FastAPI, React, Vite, FinBERT |
-| Scale | Multi-service architecture |
-| Performance | Real-time dashboard analytics |
-| Security | API-driven architecture |
-| Impact | Production-ready AI analytics |
+| Stack | Python, SQLite, FastAPI, React, PyTorch, Hugging Face |
+| Persistence | 25 tables, 16 indexes |
+| Integrity | 64 database integrity triggers |
+| Testing | 3,500+ passing automated tests |
+| Processing | Exact/semantic deduplication, canonical story reconciliation, theme clustering |
 | Repository | [github.com/Kgan3039/ai-market-sentiment-dashboard](https://github.com/Kgan3039/ai-market-sentiment-dashboard) |
 
-Built a full-stack market sentiment system that processes financial headlines and social sentiment using NLP pipelines. Designed backend APIs and frontend visualization workflows for market analytics, prediction outputs, financial data ingestion, and dashboard delivery.
+Architected a durable financial-news intelligence pipeline spanning Yahoo/RSS ingestion, evidence validation, exact and semantic deduplication, canonical story reconciliation, and embedding-based theme clustering. Engineered deterministic identities, idempotent reconciliation, provider fallbacks, and degraded-state handling across a versioned SQLite persistence layer.
 
 </details>
 
@@ -169,18 +194,18 @@ Built a full-stack market sentiment system that processes financial headlines an
 
 <br />
 
-Gamified financial literacy platform with real-time engagement, onboarding, quests, and financial education features.
+Production gamified financial-literacy application with native iOS, real-time social, and Firebase-backed systems.
 
 | Metric | Details |
 |--------|---------|
-| Stack | React Native, TypeScript, Firebase, Firestore, Cloud Functions |
-| Scale | 2000+ downloads |
-| Performance | Real-time cloud sync |
-| Security | Firebase Auth + Firestore |
-| Impact | Financial literacy education platform |
+| Stack | Swift, SwiftUI, React Native, TypeScript, Firebase, Firestore |
+| Scale | 2,000+ downloads |
+| Native Testing | 164 → 521 regression tests (+218%) |
+| Architecture | 4 native build configurations |
+| Focus | iOS reliability, Firebase integration, concurrency, environment safety |
 | Repository | Private Repository |
 
-Developing FiPet as a mobile-first financial literacy product with gamified learning systems, cloud-backed user progress, authentication flows, and real-time application features. Work includes backend APIs, Firebase infrastructure, product stability, and engineering workflow leadership.
+Hardened SwiftUI/Firebase architecture for a production iOS application spanning authentication, account management, social features, gamification, and real-time battles. Diagnosed Swift Task/AsyncStream lifecycle issues that retained view models and Firestore listeners, introducing explicit task ownership and cancellation while expanding native regression coverage.
 
 </details>
 
@@ -191,40 +216,17 @@ Developing FiPet as a mobile-first financial literacy product with gamified lear
 
 <br />
 
-Real-time mutual aid platform enabling efficient resource matching between offers and requests.
+React Native mutual-aid application connecting community offers and requests through Firebase-backed workflows.
 
 | Metric | Details |
 |--------|---------|
-| Stack | React Native, Firebase, Firestore |
-| Scale | 80+ hackathon participants |
-| Performance | Real-time feed synchronization |
-| Security | Auth-protected architecture |
-| Impact | Resource matching and mutual aid coordination |
+| Stack | React Native, TypeScript, Firebase Auth, Firestore |
+| Authentication | Firebase Authentication + auth-dependent navigation |
+| Data | Live Firestore offer/request feeds |
+| Workflow | Match acceptance across 4 Firestore collections |
 | Repository | [github.com/Kgan3039/TrueNeed](https://github.com/Kgan3039/TrueNeed) |
 
-Built a real-time platform for live offer/request posting, dynamic matching logic, authenticated user flows, and Firestore-backed feed synchronization.
-
-</details>
-
-<br />
-
-<details>
-<summary><b>Studi</b></summary>
-
-<br />
-
-Study-matching and productivity application built for university students.
-
-| Metric | Details |
-|--------|---------|
-| Stack | React Native, TypeScript, Firebase |
-| Scale | Campus-focused product |
-| Performance | Real-time data workflows |
-| Security | Firebase Auth + Firestore rules |
-| Impact | Helps students find study partners, sessions, and academic support |
-| Repository | [github.com/Kgan3039/Studi](https://github.com/Kgan3039/Studi) |
-
-Building Studi as a student-focused platform for discovering study sessions, matching with classmates, coordinating academic support, and improving collaboration across campus communities.
+Integrated Firebase Authentication and auth-dependent navigation with offer/request posting, live Firestore feeds, and a user-scoped match inbox. Prototyped a match-acceptance workflow across four Firestore collections, updating match and resource statuses and creating timestamped handoff records with defensive validation.
 
 </details>
 
@@ -232,55 +234,55 @@ Building Studi as a student-focused platform for discovering study sessions, mat
 
 # Experience
 
-## Lead Software Engineer (CTO) — FiPet  
-**Oct 2025 – Present**
-
-Leading engineering strategy and technical execution for a gamified financial literacy platform.
-
-- Developing a mobile financial literacy platform using React Native, TypeScript, Firebase, Firestore, and Cloud Functions  
-- Implementing backend services, authentication systems, real-time gamification features, and application infrastructure  
-- Establishing engineering workflows across a 25-person development team  
-- Reviewing product architecture, stability issues, and release readiness  
-
-**Skills:** `React Native` `TypeScript` `Firebase` `Firestore` `Cloud Functions` `Product Engineering`
-
----
-
-## Software Engineering Project Manager — AI@UW  
+## Software Engineering Project Manager — AI@UW
 **Mar 2026 – Present**
 
-Leading engineering and product execution for an AI-powered market sentiment dashboard.
+Leading a 5-person engineering team building a financial-news intelligence platform across ingestion, NLP, prediction, backend, and frontend systems.
 
-- Built a full-stack market sentiment platform using Python, FastAPI, React/Vite, and FinBERT  
-- Developed backend/frontend API contracts supporting dashboard sections, market data ingestion, ML outputs, and visualization workflows  
-- Debugged REST API failures, frontend state mismatches, and ML service integration issues  
-- Validated system reliability with a 14/14 backend smoke test suite for live demo readiness  
+- Define technical contracts and drive system architecture, integration, and code review across teammate-owned services
+- Integrated independently developed Python/FastAPI, NLP, prediction, and React components into an end-to-end system
+- Established typed API contracts, validation boundaries, provider fallbacks, and deterministic data workflows
+- Implemented REST APIs and a 15-minute provider cache with stale-data fallback, reducing 10 repeated requests to 1 external provider call in controlled testing
 
-**Skills:** `Python` `FastAPI` `React` `Vite` `FinBERT` `Machine Learning`
+**Skills:** `Python` `FastAPI` `React` `REST APIs` `System Integration` `Technical Leadership`
 
 ---
 
-## Technology Strategy Intern — iStart Valley  
+## Lead Software Engineer (CTO) — FiPet
+**Oct 2025 – Present**
+
+Leading engineering work for a production gamified financial-literacy application with 2,000+ downloads.
+
+- Expanded native iOS regression coverage from 164 to 521 tests (+218%)
+- Diagnosed and fixed Swift Task/AsyncStream lifecycle bugs that retained battle view models and Firestore listeners
+- Introduced explicit task ownership and cancellation for asynchronous application state
+- Hardened SwiftUI/Firebase architecture with environment safeguards across 4 native build configurations
+
+**Skills:** `Swift` `SwiftUI` `Firebase` `Firestore` `Concurrency` `Mobile Engineering`
+
+---
+
+## Technology Strategy Intern — iStart Valley
 **Jun 2023 – Sept 2023**
 
-Worked on technical strategy and product prototyping for emerging technology products.
+Analyzed the technical and market feasibility of a VR mental-health product.
 
-- Developed technical prototypes and implementation plans for a VR-based mental health platform  
-- Designed headset interaction workflows and immersive therapeutic environment concepts  
-- Applied AI/ML research, feasibility analysis, and product prototyping to evaluate system requirements  
+- Evaluated potential AI/ML approaches and translated technical findings into strategic product recommendations
+- Combined technical feasibility, market analysis, and business strategy to develop data-backed product recommendations
+- Presented recommendations in iStart Valley's global business competition, advancing to the Global Semifinals
 
-**Skills:** `AI/ML Research` `Product Strategy` `Technical Prototyping`
+**Skills:** `AI/ML Research` `Technical Feasibility` `Product Strategy` `Market Analysis`
 
 ---
 
-## Software Engineering Instructor — STEMShala Enrichment Center  
+## Software Engineering Instructor — STEMShala Enrichment Center
 **Jun 2023 – Aug 2025**
 
-Taught programming and robotics concepts to middle and high school students.
+Designed and taught project-based programming curriculum for middle and high school students.
 
-- Taught Python and JavaScript to 40+ students through project-based technical instruction  
-- Coached FLL robotics teams on sensor integration, autonomous design, and engineering problem-solving  
-- Designed hands-on programming exercises and robotics challenges  
+- Taught Python and JavaScript to 40+ students through hands-on software projects
+- Achieved a 90% project completion rate across project-based instruction
+- Mentored students through software and robotics development, technical problem-solving, and project completion
 
 **Skills:** `Python` `JavaScript` `Robotics` `Technical Instruction`
 
@@ -294,7 +296,7 @@ Taught programming and robotics concepts to middle and high school students.
 |-------------|---------|
 | Global Semi-Finalist | iStart Valley Business Pitch Competition, 2024 |
 | 4th Place | Illinois Speech & Debate State Finals, 2025 |
-| 3rd Place | UW Madison Product Management Case Competition, 2026 |
+| 3rd Place | UW–Madison Product Management Case Competition, 2026 |
 
 </div>
 
